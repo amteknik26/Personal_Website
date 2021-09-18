@@ -1,0 +1,156 @@
+
+body{
+    margin: 0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+
+a{
+   color : #11999E;
+}
+
+a:hover{
+    color:#EAF6F6;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+       font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2em;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat',sans-serif;
+}
+p{
+    color: #40514E;
+}
+.ProfileDesc{
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2.5rem;
+    font-weight: normal;
+    
+    
+    
+    
+}
+.TopContainer{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.Helmet{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.Desktop{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.BottomCloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.TopCloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.ProfilePic{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 8px;
+    width: 5%;
+    border-top: 0;
+    border-color: silver;
+}
+
+.BottomContainer{
+    margin-top: 50px;
+    background-color: #66BFBF;
+    padding: 50px;
+   
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.Dotted{
+    margin:50px auto 50px auto;
+}
+
+#specific{
+    margin-bottom: 100px;;
+}
+
+.rights{
+    margin: 0;
+    color:#EAF6F6;
+    padding-top: 20px;
+    font-size: 0.75rem;
+}
+
+.footer-link{
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+}
+
+.btn{
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   width: 122px;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #11999E;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin:50px auto 50px auto;
+}
+
+.btn{
+   background: #11999E;
+   border: solid #66BFBF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+   margin:50px auto 50px auto;
+}
+
